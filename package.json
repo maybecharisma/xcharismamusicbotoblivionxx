@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.js"
   "scripts": {
     "start": "node bot.js"
   },
@@ -10,7 +10,7 @@
     "discord.js": "11.1.0",
     "fs":      "0.0.1-security",
     "ytdl-core": "0.20.2",
-    "simple-youtube-api": "5.0.1",
+    "simple-youtube-api": "5.0.1"
     
   }
 }
