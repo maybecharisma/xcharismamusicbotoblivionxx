@@ -11,6 +11,6 @@
     "fs":      "0.0.1-security",
     "ytdl-core": "0.20.2",
     "simple-youtube-api": "5.0.1"
-    
+    "ffmpeg-binaries": "3.2.2-3"
   }
 }
